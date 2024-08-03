@@ -1,0 +1,23 @@
+{
+  "name": "auto_jest_models",
+  "version": "1.0.0",
+  "description": "",
+  "main": "notificar.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.14",
+    "nodemailer-sendgrid-transport": "^0.2.0"
+  }
+}
